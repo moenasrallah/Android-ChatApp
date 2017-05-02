@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "383479867453",
+    "firebase_url": "https://dreamteamcapstone-48446.firebaseio.com",
+    "project_id": "dreamteamcapstone-48446",
+    "storage_bucket": "dreamteamcapstone-48446.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383479867453:android:a9de0635216949e4",
+        "android_client_info": {
+          "package_name": "com.example.luke.dreamteam_pnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383479867453-bikpq0qot7du42f3eldpabk79ibdtk71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlol2FJ9qWpaeF1jrjew7lyhz2ELakL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383479867453:android:e7ccd20ee7844ed1",
+        "android_client_info": {
+          "package_name": "com.androidchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383479867453-bikpq0qot7du42f3eldpabk79ibdtk71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtlol2FJ9qWpaeF1jrjew7lyhz2ELakL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
